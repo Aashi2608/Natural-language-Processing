@@ -15,4 +15,4 @@ Through this project, we explore how text-based claim descriptions, structured m
 - 📊 **Performance Evaluation**: Accuracy, precision, recall, and F1-score metrics to assess model efficiency.
 - 📚 **Research-Driven Approach**: Backed by academic analysis and real-world case studies.
 
-
+## [Read the paper ](https://drive.google.com/file/d/1yjA74mnz0paX20OkzBTX0NGhJ3siA3Es/view?usp=sharing)
